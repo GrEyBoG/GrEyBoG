@@ -1,16 +1,16 @@
-<p align="center">Name: anxo2077</p>
-<p align="center">Age: 18📍</p>
-<p align="center"><a href="https://github.com/GrEyBoG"><img src="https://github-readme-stats.vercel.app/api?username=GrEyBoG&show_icons=true&theme=radical"></a></p>
+<h1 align="center">fijsdoifkjas sadsaffa</h1>
+<h3 align="center">dsamdkiajsdoiaksd</h3>
 
-<p align="center">CONNECTIONS</p>
-<div> 
-  <p align="center">
-  <a href="https://www.youtube.com/channel/UCDbYHpkLNRmwNKHFXqFmYUQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "https://api.whatsapp.com/send?phone=+573225236629&text=%F0%9F%8E%B4"><img src="https://img.shields.io/badge/whatsapp-blackgreen?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/anxo2077/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/anxo2077" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/TE7J65mPtM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  </p>
-    
-  ![Snake animation align="center"](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anxo2077&label=Profile%20views&color=0e75b6&style=flat" alt="anxo2077" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anxo2077" alt="anxo2077" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/oasdmosak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oasdmosak" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://middlemanapp.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anxo2077&show_icons=true&locale=en" alt="anxo2077" /></p>
