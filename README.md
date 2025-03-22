@@ -6,11 +6,7 @@
 
 
 <p align="center">EXPERIENCE</p>
-<p align="center">Full-Stack Software Developer</p>
-<p align="center">Currently working at Global MVM Ingeniería de Software as an Engineering Analyst Junior</p>
-<p align="center">Freelance experience in software development, design, and tutoring</p>
-
-<p align="center">📄 Know more about my experiences <a href="https://www.canva.com/design/DAFhtxYAH6s/SzgG2cLr82LgBSa3MlJwrA/edit?utm_content=DAFhtxYAH6s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">https://www.canva.com/design/DAFhtxYAH6s/SzgG2cLr82LgBSa3MlJwrA/edit?utm_content=DAFhtxYAH6s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</a></p>
+<p align="center">Senior Software Developer</p>
 
 <p align="center">CONNECTIONS</p>
 <p align="center">
